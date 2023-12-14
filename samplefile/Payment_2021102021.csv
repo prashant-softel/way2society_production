@@ -1,0 +1,4 @@
+VNo,BankLedger,ChequeNo,ChequeDate,AccountName,Amount,InvoiceNumber,ExpenseHead,ExpenseAmt,CGST,SGST,TDS,Remark
+(Optional),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Optional),(Optional),(Mandatory if Exp Head provided),(Optional),(Optional),(Optional),(Optional)
+2,Saraswat Bank A/c No.2390,3399,04-07-2018,Rampujan Yadav,20000,,Security Expenses,17000,2000,2000,1000,Security Expenses
+5,Saraswat Bank A/c No.2390,3422,04-08-2018,Rampujan Yadav,20000,,,,,,,

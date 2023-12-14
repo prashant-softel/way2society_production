@@ -1,0 +1,5 @@
+FDBankName,Category,FDName,FDRNo,DateofDeposite,DateOfMaturity,PrincipleAmount,InterestRate,InterestPayoutFrequency,MaturityAmount,FDInterestType,FDNote
+(mandatory),(mandatory),(mandatory),(mandatory),(mandatory),(mandatory),(mandatory),(mandatory),(mandatory)                        1= Accured                          2=PayOut,(mandatory),"(mandatory)                     1= Monthly,          2= Quarterly,             3= Yearly,                    4= OnMaturity ",(mandatory)
+JANKALYAN SAHAKARI BANK LTD.,fixed deposits,Dhruv,1,28-03-18,28-12-20,100000,6%,1,106501,Monthly,Being FD Created
+JANKALYAN SAHAKARI BANK LTD.,fixed deposits,DhruvNew,2,28-12-19,28-12-20,200000,7%,1,230001,Quarterly,Being FD Created
+JANKALYAN SAHAKARI BANK LTD.,fixed deposits,DhruvNewOne,3,28-12-19,28-12-20,200000,5%,1,230001,Yearly,Being FD Created

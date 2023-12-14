@@ -1,0 +1,4 @@
+WingNo,UnitNo,VehicleType,ParkingType,ParkingType2,ParkingSlotNo,ParkingSlotOwned,ParkingStickerNo,RegistrationNo,OwnerName,VehicleMake,VehicleModel,Colour,RegDocSubmitted,Note
+G,102,Car,,,4,Yes,9,MH-02 AN 7107,Vikas Patil,Honda,Amaze,Red,Yes,
+G,202,Bike,,,,No,,MH-02 BY 909,Mahesh Khare,Honda,Activa,Black,Yes,
+G,101,Car,,,4,No,9,MH-02 AN 7107,Vikas Patil,Suzuki,Dzire,White,Yes,

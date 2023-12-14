@@ -1,0 +1,3 @@
+VNo,BankLedger,ChequeNo,ChequeDate,AccountName,Amount,InvoiceNumber,InvoiceDate,ExpenseHead,ExpenseAmt,CGST,SGST,TDS,RoundOffAmount,Remark
+(Optional),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Optional),(Optional),(Optional),(Mandatory if Exp Head provided),(Optional),(Optional),(Optional),(Optional),(Optional)
+4,Bharat Bank,11141,11-11-2021,SHARDA STATIONERY AND XEROX,325,COM7725,01-11-2021,Printing and Stationery,280,22.2,22.2,,0.6,"[AE-20] Being amt paid to Sharda Stationery And Xerox for Printing & Stationery Expenses against bill no.COM7725 ( GST@12% = 19{1.14+1.14}, GST@18% = 240{21.60+21.60} ({21.60+1.14} = 22.74 +{ 21.60+1.14}= 22.74 = [22.74+22.74 = 45.48]"

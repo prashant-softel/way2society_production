@@ -1,0 +1,3 @@
+BCode,WCode,FCode,Owner,ExtnLedgerName,ExtnSuppLedgerName,Occupation,DateOfBirth,AnnivarsaryDate,Gender,BloodGroup,OwnerAddress,FlatArea,GSTINNO,ResPhone,MobileNo,OffPhone,EMail,Email1,DisposeDate,Inactive,EmergencyPersonName,EmergencyMobileNo,EmergencyTelephoneNo,ParkingNo
+303,A,A-101,Mr. Amol Kulkarni,A101 Mr Amol,A101 Mr. Amol (Major),Doctor,,,,,,650,27234DKJE23J,,7504423423,,abc@gmail.com,,,,,,,
+303,B,B-201,Mrs. Shila Dixit,B201 Mrs. Shila Dixit,B201 Mrs Shila Dixit (Major),Marketing,,,,,,475,27234ALDS23J,,9898989898,,Shiela@gmail.com,,,,Mr. Sachin Naik,9999988888,,G-201

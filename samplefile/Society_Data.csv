@@ -1,0 +1,15 @@
+WCode,WName,FCode,FloorNo,UnitType,FlatConfiguration,FlatArea,Owner,EMail,MobileNo,Occupation,DateOfBirth,AnnivarsaryDate,Gender,BloodGroup,OwnerAddress,BikeParkingNo,CarParkingNo,GSTINNO,ResPhone,OffPhone,Email1,EmergencyPersonName,EmergencyMobileNo,EmergencyTelephoneNo,AssociateMemberName,VirtualAC
+(Mandatory),(Mandatory),(Mandatory),(Optional),Range Should be From 1 to 7,(Optional)any string,(Optional),(Mandatory),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional)
+A,A,101,0,,Shop,450,Mr. Amol Kulkarni,abc@gmail.com,998554252,,,,,,,,,,,,,,,,paras,234567890
+A,A,102,0,,1BHK,630,Mrs. Shila Dixit,abc@gmail.com,956236212,,,,,,,,,,,,,,,,pooja,234567890
+A,A,103,0,,2BHK,630,Akshata,abc@gmail.com,,,,,,,,,,,,,,,,,,
+A,A,104,0,,2BHK,630,Anuj Kumar,,,,,,,,,,,,,,,,,,,
+B,B,105,0,,2BHK,630,Amit Yadav,,,,,,,,,,,,,,,,,,Sunil kumar,
+B,B,106,0,,2BHK,630,SUjit Prajapati,,,,,,,,,,,,,,,,,,,
+B,B,107,0,,1BHK,450,Asmita Rane,,9524521663,,,,,,,,,,,,,,,,,
+B,B,108,0,,1BHK,450,Shikha gupta,,,,,,,,,,,,,,,,,,,
+C,C,109,0,,2BHK,630,Bharti Jadhav,,,,,,,,,,,,,,,,,,Ajay Mishra,
+C,C,110,0,,2BHK,630,Keval Khatri,,,,,,,,,,,,,,,,,,,
+C,C,111,0,,2BHK,630,Amit,,,,,,,,,,,,,,,,,,,
+C,C,112,0,,1BHK,450,Suraj,,,,,,,,,,,,,,,,,,,
+C,C,113,0,,1BHK,450,Santosh,,,,,,,,,,,,,,,,,,,

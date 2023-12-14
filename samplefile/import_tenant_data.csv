@@ -1,0 +1,4 @@
+Unitno,Wing,TenantFname,TenantMname,TenantLname,DOB,Email,ContactNumber,Agentname,AgentContactNo,StartDate,EndDate,TenantType,Address,Pincode,City
+302,B,Sujit,Ashok,suraj,01-01-1996,S@gmail.com,9685742595,Ajay Kumar,8569758968,03-01-2020,14-01-2022,1,Goregaon,400069,Mumbai
+106,B,Prashant,Vinod,Kumar,01-02-2000,P@gmail.com,9865748695,Ajay Kumar,9512365789,04-01-2020,04-01-2022,2,Goregaon,400085,Mumbai
+1102,G,Mangesh,Ram,Patel,09-05-1980,M@gmail.com,9867486597,Sanjay Kumar,9785463258,05-01-2018,05-01-2019,2,Goregaon,400069,Mumbai

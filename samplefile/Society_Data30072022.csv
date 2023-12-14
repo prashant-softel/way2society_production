@@ -1,0 +1,5 @@
+WCode,WName,FCode,FloorNo,UnitType,FlatConfiguration,FlatArea,Owner,ExtnLedgerName,EMail,MobileNo,Occupation,DateOfBirth,AnnivarsaryDate,Gender,BloodGroup,OwnerAddress,BikeParkingNo,CarParkingNo,GSTINNO,ResPhone,OffPhone,Email1,EmergencyPersonName,EmergencyMobileNo,EmergencyTelephoneNo
+(Mandatory),(Mandatory),(Mandatory),(Optional),Range Should be From 1 to 7,(Optional)any string,,(Mandatory),(Optional - Tally Ledgers),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional)
+A,A,A001,0,1,Shop,105,Mr. Ravi Naik & Mrs. Varsha R. Naik,,am@gmail.com,9029463457,,13-09-90,,,,,,,,,,ar.ravinaik@gmail.com,,,
+B,B,B002,0,2,1BHK,100,Mr. Ravi Naik & Mrs. Varsha R. Naik,,,9029463457,,14-09-90,,,,,,,,,,ar.ravinaik@gmail.com,,,
+A,A,A003,0,1,2BHK,100,Mr. Ravi Naik & Mrs. Varsha R. Naik,,,9029463457,,15-09-90,,,,,,,,,,ar.ravinaik@gmail.com,,,

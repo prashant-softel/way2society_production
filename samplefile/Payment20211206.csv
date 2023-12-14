@@ -1,0 +1,7 @@
+VNo,BankLedger,ChequeNo,ChequeDate,AccountName,Amount,InvoiceNumber,InvoiceDate,ExpenseHead,ExpenseAmt,CGST,SGST,TDS,Remark
+(Optional),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Mandatory),(Optional),(Optional),(Optional),(Mandatory if Exp Head provided),(Optional),(Optional),(Optional),(Optional)
+1,Saraswat Bank,11011,20-02-2021,Electricity Charges Payable,2977,A-1,25-02-2021,Audit Fees,3000,,,23,BEING AMT PAID FOR FIXING NOTICE BOARD N PAINTING OFFICE ROOM
+2,Saraswat Bank,11012,21-02-2021,Electricity Charges Payable,5000,A-2,26-02-2021,Audit Fees,5000,,,,BEING AMT WITHDRAWN FOR PETTY CASH
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

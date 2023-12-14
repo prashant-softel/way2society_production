@@ -1,0 +1,4 @@
+WCode,WName,FCode,FloorNo,UnitType,FlatArea,FlatConfiguration,Owner,ExtnLedgerName,EMail,MobileNo,Occupation,DateOfBirth,AnnivarsaryDate,Gender,BloodGroup,OwnerAddress,BikeParkingNo,CarParkingNo,GSTINNO,ResPhone,OffPhone,Email1,EmergencyPersonName,EmergencyMobileNo,EmergencyTelephoneNo
+(Mandatory),(Mandatory),(Mandatory),(Optional),Range Should be From 1 to 7,,(Optional),(Mandatory),(Optional - Tally Ledgers),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional),(Optional)
+A,A,101,3,1,260,4BHK,MS. SADAF M. SAYED & MRS.ANJUM M. SAYED,,,,,,,,,,,,,,,,,,
+A,A,102,3,1,262,4BHK,MRS. DOLLY MOTTO,,,,,,,,,,,,,,,,,,
